@@ -1,0 +1,2 @@
+include ':app', ':beacon-scanner'
+rootProject.name='BeaconScanner'
